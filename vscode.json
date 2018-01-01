@@ -1,8 +1,7 @@
 {
     "editor.detectIndentation": false,
-    "editor.rulers": [80],
+    "editor.rulers": [120],
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    "workbench.colorTheme": "Default Light+",
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.colorTheme": "Default Light+"
 }
