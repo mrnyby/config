@@ -1,9 +1,12 @@
 {
-    "editor.detectIndentation": false,
-    "editor.rulers": [
-        120
-    ],
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
-    "workbench.colorTheme": "Default Light+"
+  "editor.detectIndentation": false,
+  "editor.rulers": [
+    120
+  ],
+  "editor.tabSize": 2,
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "workbench.colorTheme": "Default Light+",
+  "workbench.startupEditor": "newUntitledFile",
+  "explorer.confirmDragAndDrop": false
 }
