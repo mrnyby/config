@@ -144,6 +144,9 @@ bar {
 # Screen lock
 bindsym $mod+z exec i3lock -c 000000
 
+# Screenshot
+bindsym $mod+p exec scrot -u ~/screenshot-%Y-%m-%d-%H:%M:%S.png
+
 # Modify brightness
 bindsym XF86MonBrightnessDown exec xbacklight -dec 10
 bindsym XF86MonBrightnessUp exec xbacklight -inc 10
