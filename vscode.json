@@ -5,6 +5,5 @@
   ],
   "editor.tabSize": 2,
   "telemetry.enableCrashReporter": false,
-  "telemetry.enableTelemetry": false,
-  "workbench.colorTheme": "Default Light+"
+  "telemetry.enableTelemetry": false
 }
