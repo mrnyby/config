@@ -1,9 +1,0 @@
-{
-  "editor.detectIndentation": false,
-  "editor.rulers": [
-    120
-  ],
-  "editor.tabSize": 2,
-  "telemetry.enableCrashReporter": false,
-  "telemetry.enableTelemetry": false
-}
