@@ -1,0 +1,10 @@
+{
+  "editor.rulers": [120],
+  "editor.tabSize": 2,
+  "editor.wordWrapColumn": 120,
+  "telemetry.enableTelemetry": false,
+  "workbench.colorTheme": "Solarized Light",
+  "workbench.enableExperiments": false,
+  "workbench.settings.enableNaturalLanguageSearch": false,
+  "workbench.startupEditor": "newUntitledFile"
+}
