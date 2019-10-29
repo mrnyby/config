@@ -1,5 +1,4 @@
 {
-  "editor.renderWhitespace": "boundary",
   "editor.rulers": [120],
   "editor.tabSize": 2,
   "editor.wordWrapColumn": 120,
