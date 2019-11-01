@@ -4,6 +4,7 @@
   "editor.wordWrapColumn": 120,
   "files.associations": { "*.svelte": "html" },
   "telemetry.enableTelemetry": false,
+  "workbench.colorTheme": "Default Light+",
   "workbench.editor.enablePreview": false,
   "workbench.enableExperiments": false,
   "workbench.settings.enableNaturalLanguageSearch": false,
