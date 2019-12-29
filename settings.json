@@ -1,7 +1,9 @@
 {
     "debug.toolBarLocation": "docked",
     "editor.fontSize": 13,
+    "editor.insertSpaces": false,
     "editor.rulers": [120],
+    "editor.tabSize": 2,
     "editor.wordWrapColumn": 120,
     "files.associations": { "*.svelte": "html" },
     "files.insertFinalNewline": true,
