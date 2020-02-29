@@ -1,0 +1,16 @@
+{
+    "debug.toolBarLocation": "docked",
+    "editor.fontSize": 13,
+    "editor.rulers": [120],
+    "editor.wordWrapColumn": 120,
+    "files.associations": { "*.svelte": "html" },
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "telemetry.enableTelemetry": false,
+    "workbench.colorTheme": "Default Light+",
+    "workbench.editor.enablePreview": false,
+    "workbench.enableExperiments": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "workbench.startupEditor": "newUntitledFile"
+}
