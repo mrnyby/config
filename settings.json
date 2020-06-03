@@ -1,8 +1,8 @@
 {
 	"debug.toolBarLocation": "docked",
 	"editor.fontSize": 12,
-	"editor.rulers": [120],
-	"editor.wordWrapColumn": 120,
+	"editor.rulers": [80],
+	"editor.wordWrapColumn": 80,
 	"files.associations": { "*.svelte": "html" },
 	"files.insertFinalNewline": true,
 	"files.trimFinalNewlines": true,
