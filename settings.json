@@ -3,14 +3,11 @@
 	"editor.fontSize": 12,
 	"editor.rulers": [100],
 	"editor.wordWrapColumn": 120,
-	"files.insertFinalNewline": true,
-	"files.trimFinalNewlines": true,
-	"files.trimTrailingWhitespace": true,
 	"telemetry.enableTelemetry": false,
-	"terminal.integrated.fontSize": 13,
+	"terminal.integrated.fontSize": 12,
 	"workbench.colorTheme": "Default Light+",
 	"workbench.editor.enablePreview": false,
 	"workbench.enableExperiments": false,
 	"workbench.settings.enableNaturalLanguageSearch": false,
-	"workbench.startupEditor": "newUntitledFile",
+	"workbench.startupEditor": "newUntitledFile"
 }
