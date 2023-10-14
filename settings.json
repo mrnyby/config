@@ -7,5 +7,5 @@
 	"workbench.editor.enablePreview": false,
 	"workbench.enableExperiments": false,
 	"workbench.settings.enableNaturalLanguageSearch": false,
-	"workbench.startupEditor": "newUntitledFile"
+	"workbench.startupEditor": "none"
 }
