@@ -3,7 +3,7 @@
 	"editor.rulers": [120],
 	"editor.wordWrapColumn": 120,
 	"telemetry.telemetryLevel": "off",
-	"workbench.colorTheme": "Default Light+",
+	"workbench.colorTheme": "Default Light Modern",
 	"workbench.editor.enablePreview": false,
 	"workbench.enableExperiments": false,
 	"workbench.settings.enableNaturalLanguageSearch": false,
