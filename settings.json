@@ -1,11 +1,11 @@
 {
-	"debug.toolBarLocation": "docked",
-	"editor.rulers": [120],
-	"editor.wordWrapColumn": 120,
-	"telemetry.telemetryLevel": "off",
-	"workbench.colorTheme": "Default Light Modern",
-	"workbench.editor.enablePreview": false,
-	"workbench.enableExperiments": false,
-	"workbench.settings.enableNaturalLanguageSearch": false,
-	"workbench.startupEditor": "none"
+    "debug.toolBarLocation": "docked",
+    "editor.rulers": [120],
+    "editor.wordWrapColumn": 120,
+    "window.autoDetectColorScheme": true,
+    "workbench.editor.enablePreview": false,
+    "workbench.enableExperiments": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "workbench.startupEditor": "none",
+    "telemetry.telemetryLevel": "off",
 }
