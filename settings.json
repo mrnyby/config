@@ -1,5 +1,6 @@
 {
     "debug.toolBarLocation": "docked",
+    "editor.fontSize": 13,
     "editor.rulers": [120],
     "editor.wordWrapColumn": 120,
     "window.autoDetectColorScheme": true,
@@ -8,4 +9,6 @@
     "workbench.settings.enableNaturalLanguageSearch": false,
     "workbench.startupEditor": "none",
     "telemetry.telemetryLevel": "off",
+    "svelte.enable-ts-plugin": true,
+    "workbench.colorTheme": "Default Light Modern"
 }
