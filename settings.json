@@ -3,12 +3,13 @@
     "editor.fontSize": 13,
     "editor.rulers": [120],
     "editor.wordWrapColumn": 120,
+    "extensions.ignoreRecommendations": true,
+    "svelte.enable-ts-plugin": true,
+    "telemetry.telemetryLevel": "off",
     "window.autoDetectColorScheme": true,
+    "window.restoreWindows": "none",
     "workbench.editor.enablePreview": false,
     "workbench.enableExperiments": false,
     "workbench.settings.enableNaturalLanguageSearch": false,
-    "workbench.startupEditor": "none",
-    "telemetry.telemetryLevel": "off",
-    "svelte.enable-ts-plugin": true,
-    "workbench.colorTheme": "Default Light Modern"
+    "workbench.startupEditor": "none"
 }
