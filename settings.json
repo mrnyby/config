@@ -1,10 +1,11 @@
 {
+    "chat.commandCenter.enabled": false,
     "debug.toolBarLocation": "docked",
     "editor.fontSize": 13,
     "editor.rulers": [120],
     "editor.wordWrapColumn": 120,
     "extensions.ignoreRecommendations": true,
-    "svelte.enable-ts-plugin": true,
+    "git.openRepositoryInParentFolders": "always",
     "telemetry.telemetryLevel": "off",
     "window.autoDetectColorScheme": true,
     "window.restoreWindows": "none",
